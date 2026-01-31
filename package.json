@@ -1,0 +1,23 @@
+{
+  "name": "it23212190",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeviniLiyanage/IT23212190.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DeviniLiyanage/IT23212190/issues"
+  },
+  "homepage": "https://github.com/DeviniLiyanage/IT23212190#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}
